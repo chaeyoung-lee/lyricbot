@@ -6,6 +6,6 @@ click==6.6
 gunicorn==19.7.1
 itsdangerous==0.24
 bs4==0.0.1
-requests==2.18.1
+requests>=2.20.0
 urllib3==1.21.1
 lyricwikia==0.1.9
